@@ -1,6 +1,4 @@
 # Xperia_Keyboard_MaterialThemeA10
 Xperia_Keyboard_MaterialTheme for Android 10
 
-
-https://forum.xda-developers.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2Fz5ZZJqo.png&hash=60d867521eb62d215db6e264c1495e6f
-
+<a href="https://ibb.co/f8DjWXR"><img src="https://i.ibb.co/YD0HSN9/z5ZZJqo.png" alt="z5ZZJqo" border="0"></a>
